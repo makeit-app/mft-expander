@@ -1,0 +1,4 @@
+E:\Visual Studio\C#\MFT Expander\MFT Expander\bin\Release\MFT Expander.exe.config
+E:\Visual Studio\C#\MFT Expander\MFT Expander\bin\Release\MFT Expander.exe
+E:\Visual Studio\C#\MFT Expander\MFT Expander\obj\Release\MFT Expander.exe
+E:\Visual Studio\C#\MFT Expander\MFT Expander\obj\Release\MFT Expander.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Visual Studio\C#\MFT Expander\MFT Expander\bin\Debug\MFT Expander.exe
+E:\Visual Studio\C#\MFT Expander\MFT Expander\bin\Debug\MFT Expander.pdb
+E:\Visual Studio\C#\MFT Expander\MFT Expander\obj\Debug\MFT Expander.exe
+E:\Visual Studio\C#\MFT Expander\MFT Expander\obj\Debug\MFT Expander.pdb
+E:\Visual Studio\C#\MFT Expander\MFT Expander\bin\Debug\MFT Expander.exe.config
